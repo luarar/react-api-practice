@@ -18,7 +18,6 @@ const Grid = () => {
     heroesRequest();
   }, []);
 
-console.log(heroes)
   return (
 
     <Container>
